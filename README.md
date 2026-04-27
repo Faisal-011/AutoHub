@@ -3,8 +3,10 @@
 AutoHub is a full-stack web application designed to manage a premium car showroom and rental service. It allows users to browse vehicles, make bookings, manage rentals, and track customer history, all within a modern, responsive interface.
 
 ## 👥 Authors
+*   **Janet King**
 *   **Mohamed Qurrain**
 *   **Mohammed Faisal**
+
 
 **University**: Ramaiah Institute Of Technology
 
